@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "193268963999",
+    "firebase_url": "https://quan-ly-hoc-phan-73233-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quan-ly-hoc-phan-73233",
+    "storage_bucket": "quan-ly-hoc-phan-73233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193268963999:android:c32ece433f9f9c730ca0aa",
+        "android_client_info": {
+          "package_name": "com.example.btgk_quanlyhocphan_21it274"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193268963999-c9c500d1nk64kn0shb12gk7bivmg742i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOpHdvbcj_AB9lgj5lJ5G4Px-x-glpVA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193268963999-c9c500d1nk64kn0shb12gk7bivmg742i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

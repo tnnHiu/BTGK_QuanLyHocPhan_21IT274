@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BTGK_QuanLyHocPhan_21IT274</string>
+    <string name="th_m_h_c_ph_n">Thêm Học Phần</string>
+    <string name="s_t_n_ch">Số Tín Chỉ</string>
+    <string name="t_n_h_c_ph_n">Tên Học Phần</string>
+    <string name="m_h_c_ph_n">Mã Học Phần</string>
+    <string name="b_c_bu_c">Bắc buộc</string>
+    <string name="t_ch_n">Tự Chọn</string>
+    <string name="qu_n_l_h_c_ph_n">Quản Lý Học Phần</string>
+    <string name="th_m_h_c_ph_n1">Thêm Học Phần</string>
+    <string name="t_n_h_c_ph_n2">Tên Học Phần</string>
+    <string name="th_m_hp">Thêm HP</string>
+    <string name="x_a_h_c_ph_n">Xóa Học Phần</string>
+    <string name="m_h_c_ph_n11">Mã Học Phần</string>
+    <string name="t_n_h_c_ph_n111">Tên Học Phần</string>
+    <string name="s_t_n_ch1111">Số Tín Chỉ</string>
+    <string name="lo_i11">Loại</string>
+</resources>
