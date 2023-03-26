@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
             override fun onDataChange(snapshot: DataSnapshot) {
                 listHp.clear()
                 if (snapshot.exists()){
-                    for (HpSnap in snapshot.children){a
+                    for (HpSnap in snapshot.children){
                         val hPData = HpSnap.getValue(HocPhan::class.java)
                         listHp.add(hPData!!)
                     }
